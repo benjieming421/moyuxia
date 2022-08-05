@@ -1,0 +1,19 @@
+{
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "version": "0.0.1",
+    "development": {
+      "preload": "preload.js"
+    },
+    "pluginSetting": {
+      "single": true,
+      "height": 200
+    },
+    "features": [
+      {
+        "code": "my",
+        "explain": "摸鱼摸鱼",
+        "cmds": ["my"]
+      }
+    ]
+  }
